@@ -2387,7 +2387,7 @@
             down: 'fa fa-chevron-down',
             previous: 'fa fa-chevron-left',
             next: 'fa fa-chevron-right',
-            today: 'fa fa-screenshot',
+            today: 'fa fa-hand-pointer-o',
             clear: 'fa fa-trash',
             close: 'fa fa-times'
         },
