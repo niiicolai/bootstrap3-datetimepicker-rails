@@ -2381,7 +2381,7 @@
         disabledDates: false,
         enabledDates: false,
         icons: {
-            time: 'fa fa-clock',
+            time: 'fa fa-clock-o',
             date: 'fa fa-calendar',
             up: 'fa fa-chevron-up',
             down: 'fa fa-chevron-down',
